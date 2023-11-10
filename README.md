@@ -1,33 +1,33 @@
 # DMI_Practica15_200668
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="practica14_200668/logos/LOGO TIC.png?raw=true" alt="Imagen 1" width="200"; />
-    <img align="right" src="practica14_200668/logos/LOGO UTXJ 2019.png?raw=true" alt="Imagen 2" width="300" height="80" />
+    <img align="left" src="?raw=true" alt="Imagen 1" width="200"; />
+    <img align="right" src="?raw=true" alt="Imagen 2" width="300" height="80" />
 </div><br><br><br><br><br>
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
-PRÁCTICA 14: Implementación del modulo de actores de Series de TV y Películas. <br>
-Descripción:En esta práctica de desarrollo de aplicaciones con Flutter, se ha logrado la creación exitosa de un catálogo de películas y series de televisión que hace uso de una API externa para la obtención de datos. La aplicación final resultante presenta a los usuarios una interfaz de usuario intuitiva con un menú lateral que facilita la navegación entre las secciones de "Películas" y "Series de TV".
+PRÁCTICA 15: Creacion de una Api Rest para la aplicacion del videojuego. <br>
+Descripción:Una práctica de una API REST desarrollada en Node.js es un enfoque eficiente y versátil para crear servicios web. Esta API ofrece operaciones CRUD (Crear, Leer, Actualizar y Borrar) para gestionar recursos de datos. Utilizando Express.js, se configuran las rutas y controladores correspondientes para cada operación.
 
-Los actores principales que participaron en este proyecto incluyen a los desarrolladores de la aplicación, quienes desempeñaron un papel crucial en el diseño y desarrollo de la aplicación. Fueron responsables de la integración de la API de películas y series, la gestión del estado de la aplicación y la personalización para satisfacer los requisitos específicos.
+Para crear datos, se envían solicitudes POST con JSON al endpoint adecuado. Para leer, se utiliza una solicitud GET para recuperar datos. Actualizar se logra con PUT, mientras que DELETE se usa para eliminar recursos.
 
-La API de películas y series también desempeñó un papel esencial al proporcionar datos clave, como títulos, imágenes y descripciones, que enriquecieron el contenido del catálogo. Esto permitió a los usuarios acceder a información detallada sobre las películas y series que deseaban explorar.
+La API utiliza controladores para procesar las solicitudes y realizar operaciones en la base de datos. Se emplea una base de datos como MySQL para almacenar y gestionar datos. El middleware de autenticación y autorización se incorpora para garantizar la seguridad.
 
-Por último, los usuarios finales son los beneficiarios de esta práctica, ya que disfrutan de la aplicación resultante, que les brinda una experiencia de usuario amigable y les permite explorar y descubrir películas y series de televisión de manera eficiente y personalizada. La navegación fluida proporcionada por el menú lateral facilita la exploración y la visualización de detalles adicionales, lo que hace que la aplicación sea atractiva y funcional. <br>
+Esta API REST en Node.js es escalable, fácil de mantener y ofrece un mecanismo robusto para interactuar con los datos a través de solicitudes HTTP. <br>
 Fecha entrega: 06 de Noviembre del 2023 <br> <br>
 
-# Resultado de la Practica 14
+# Resultado de la Practica 15
 
 <div style="display: flex; justify-content:">
- <img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (1).jpeg?raw=true" alt="Imagen 1" width="200";/>
-<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (2).jpeg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (3).jpeg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (4).jpeg?raw=true" alt="Imagen 2"  width="200" />
+ <img align="left" src="?raw=true" alt="Imagen 1" width="200";/>
+<img align="left" src="?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="?raw=true" alt="Imagen 2"  width="200" />
 </div>
 
 <div style="display: flex; justify-content:">
-<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (5).jpeg?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="practica14_200668/img/WhatsApp Image 2023-11-05 at 3.06.29 PM (6).jpeg?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="?raw=true" alt="Imagen 2"  width="200" />
+<img align="left" src="?raw=true" alt="Imagen 2"  width="200" />
 
 
 </div>
