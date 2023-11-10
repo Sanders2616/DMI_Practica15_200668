@@ -14,7 +14,7 @@ Para crear datos, se envían solicitudes POST con JSON al endpoint adecuado. Par
 La API utiliza controladores para procesar las solicitudes y realizar operaciones en la base de datos. Se emplea una base de datos como MySQL para almacenar y gestionar datos. El middleware de autenticación y autorización se incorpora para garantizar la seguridad.
 
 Esta API REST en Node.js es escalable, fácil de mantener y ofrece un mecanismo robusto para interactuar con los datos a través de solicitudes HTTP. <br>
-Fecha entrega: 06 de Noviembre del 2023 <br> <br>
+Fecha entrega: 10 de Noviembre del 2023 <br> <br>
 
 # Resultado de la Practica 15
 
