@@ -19,11 +19,11 @@ Fecha entrega: 10 de Noviembre del 2023 <br> <br>
 # Resultado de la Practica 15
 
 <div style="display: flex; justify-content:">
- <img align="left" src="Api_videojuego/img/1.png?raw=true" alt="Imagen 1" width="500";/>
-<img align="left" src="Api_videojuego/img/2.png?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="Api_videojuego/img/3.png?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="Api_videojuego/img/4.png?raw=true" alt="Imagen 2"  width="200" />
-<img align="left" src="Api_videojuego/img/5.png?raw=true" alt="Imagen 2"  width="200" />
+ <img align="left" src="Api_videojuego/img/1.png?raw=true" alt="Imagen 1" width="800";/>
+<img align="left" src="Api_videojuego/img/2.png?raw=true" alt="Imagen 2"  width="800" />
+<img align="left" src="Api_videojuego/img/3.png?raw=true" alt="Imagen 2"  width="800" />
+<img align="left" src="Api_videojuego/img/4.png?raw=true" alt="Imagen 2"  width="800" />
+<img align="left" src="Api_videojuego/img/5.png?raw=true" alt="Imagen 2"  width="800" />
 
 
 </div>
