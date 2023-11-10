@@ -6,7 +6,7 @@
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
-PRÁCTICA 15: Creacion de una Api Rest para la aplicacion del videojuego. <br>
+PRÁCTICA 15:Impementacion de rutas y mildelwares para el jugador<br>
 Descripción:Una práctica de una API REST desarrollada en Node.js es un enfoque eficiente y versátil para crear servicios web. Esta API ofrece operaciones CRUD (Crear, Leer, Actualizar y Borrar) para gestionar recursos de datos. Utilizando Express.js, se configuran las rutas y controladores correspondientes para cada operación.
 
 Para crear datos, se envían solicitudes POST con JSON al endpoint adecuado. Para leer, se utiliza una solicitud GET para recuperar datos. Actualizar se logra con PUT, mientras que DELETE se usa para eliminar recursos.
